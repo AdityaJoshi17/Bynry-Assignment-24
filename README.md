@@ -4,7 +4,7 @@ admin: {
       username: "admin",
       password: "admin",
     },
-    user: {
+user: {
       username: "user",
       password: "user",
     }
